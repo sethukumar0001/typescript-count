@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##command to create App
+
+npx create-react-app my-typescript-app --typescript 
+
 ## Available Scripts
 
 In the project directory, you can run:
